@@ -1,0 +1,11 @@
+name: Add web custom module
+type: module
+description: 'A new form text field named "Site API Key" needs to be added to the "Site Information" form with the default value of “No API Key yet”.'
+package: Core
+# version: VERSION
+core: 8.x
+
+# Information 
+version: '8.8.12'
+project: 'drupal'
+datestamp: 1606360921
